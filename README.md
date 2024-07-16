@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eliecer Tomas 
 - 👀 I’m interested in programming (Full Stack, Software Engineering and AI)
 - 🥋 I’m World Champ in Taekwondo ATA
-- 💻 I have knowledge in React, Machine Learning, Angular, Typescript, Scheme (basic knowledge), Go, Java, C, C++, C#, MySQL and MongoDB.
+- 💻 I have knowledge in React, C#, .NET, Typescript, Machine Learning, Angular, Scheme (basic knowledge), Go, Java, MySQL and MongoDB.
 - 💝 I’m in love with Paloma
